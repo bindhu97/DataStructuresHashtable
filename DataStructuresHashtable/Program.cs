@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 //Console.WriteLine("Hello, World!");
 
-using DataStructuresHashtable.Hashtable;
+//using DataStructuresHashtable.Hashtable;
 
 //MyMapNode<string, string> hashtable = new MyMapNode<string, string>(5);
 
@@ -17,27 +17,35 @@ using DataStructuresHashtable.Hashtable;
 //string getword = hashtable.GetElement("3");
 //Console.WriteLine("3th index value is : " + getword);
 
-MyMapNode<string, string> hashtable = new MyMapNode<string, string>(18);
+//MyMapNode<string, string> hashtable = new MyMapNode<string, string>(18);
 
-hashtable.Add("f0", "“Paranoids");
-hashtable.Add("f1", "are");
-hashtable.Add("f2", "not");
-hashtable.Add("f3", "paranoid");
-hashtable.Add("f4", "because");
-hashtable.Add("f5", "they");
-hashtable.Add("f6", "are");
-hashtable.Add("f7", "paranoid");
-hashtable.Add("f8", "but");
-hashtable.Add("f9", "because");
-hashtable.Add("f10", "they");
-hashtable.Add("f11", "keep");
-hashtable.Add("f12", "putting");
-hashtable.Add("f13", "themselves");
-hashtable.Add("f14", "deliberately");
-hashtable.Add("f15", "into");
-hashtable.Add("f16", "paranoid");
-hashtable.Add("f17", "avoidable");
-hashtable.Add("f18", "situations”");
+//hashtable.Add("f0", "“Paranoids");
+//hashtable.Add("f1", "are");
+//hashtable.Add("f2", "not");
+//hashtable.Add("f3", "paranoid");
+//hashtable.Add("f4", "because");
+//hashtable.Add("f5", "they");
+//hashtable.Add("f6", "are");
+//hashtable.Add("f7", "paranoid");
+//hashtable.Add("f8", "but");
+//hashtable.Add("f9", "because");
+//hashtable.Add("f10", "they");
+//hashtable.Add("f11", "keep");
+//hashtable.Add("f12", "putting");
+//hashtable.Add("f13", "themselves");
+//hashtable.Add("f14", "deliberately");
+//hashtable.Add("f15", "into");
+//hashtable.Add("f16", "paranoid");
+//hashtable.Add("f17", "avoidable");
+//hashtable.Add("f18", "situations”");
 
-hashtable.RemovePerticularElement("f17");
-Console.WriteLine(" Word 'avoidable' was deleted from the above paragraph");
+//hashtable.RemovePerticularElement("f17");
+//Console.WriteLine(" Word 'avoidable' was deleted from the above paragraph");
+
+using DataStructuresHashtable.BinarySearchTree;
+
+BinarySearch binarytree = new BinarySearch();
+binarytree.InsertingNode(56);
+binarytree.InsertingNode(30);
+binarytree.InsertingNode(70);
+binarytree.Display();
