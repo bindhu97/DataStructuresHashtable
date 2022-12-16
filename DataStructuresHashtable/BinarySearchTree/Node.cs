@@ -16,5 +16,10 @@ namespace DataStructuresHashtable.BinarySearchTree
         {
             this.Element = data;
         }
+
+        internal bool CompareTo(int element)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
