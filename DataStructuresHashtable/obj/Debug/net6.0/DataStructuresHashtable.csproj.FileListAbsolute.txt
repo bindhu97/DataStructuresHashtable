@@ -1,0 +1,15 @@
+C:\Users\91973\source\repos\DataStructuresHashtable\DataStructuresHashtable\bin\Debug\net6.0\DataStructuresHashtable.exe
+C:\Users\91973\source\repos\DataStructuresHashtable\DataStructuresHashtable\bin\Debug\net6.0\DataStructuresHashtable.deps.json
+C:\Users\91973\source\repos\DataStructuresHashtable\DataStructuresHashtable\bin\Debug\net6.0\DataStructuresHashtable.runtimeconfig.json
+C:\Users\91973\source\repos\DataStructuresHashtable\DataStructuresHashtable\bin\Debug\net6.0\DataStructuresHashtable.dll
+C:\Users\91973\source\repos\DataStructuresHashtable\DataStructuresHashtable\bin\Debug\net6.0\DataStructuresHashtable.pdb
+C:\Users\91973\source\repos\DataStructuresHashtable\DataStructuresHashtable\obj\Debug\net6.0\DataStructuresHashtable.csproj.AssemblyReference.cache
+C:\Users\91973\source\repos\DataStructuresHashtable\DataStructuresHashtable\obj\Debug\net6.0\DataStructuresHashtable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91973\source\repos\DataStructuresHashtable\DataStructuresHashtable\obj\Debug\net6.0\DataStructuresHashtable.AssemblyInfoInputs.cache
+C:\Users\91973\source\repos\DataStructuresHashtable\DataStructuresHashtable\obj\Debug\net6.0\DataStructuresHashtable.AssemblyInfo.cs
+C:\Users\91973\source\repos\DataStructuresHashtable\DataStructuresHashtable\obj\Debug\net6.0\DataStructuresHashtable.csproj.CoreCompileInputs.cache
+C:\Users\91973\source\repos\DataStructuresHashtable\DataStructuresHashtable\obj\Debug\net6.0\DataStructuresHashtable.dll
+C:\Users\91973\source\repos\DataStructuresHashtable\DataStructuresHashtable\obj\Debug\net6.0\refint\DataStructuresHashtable.dll
+C:\Users\91973\source\repos\DataStructuresHashtable\DataStructuresHashtable\obj\Debug\net6.0\DataStructuresHashtable.pdb
+C:\Users\91973\source\repos\DataStructuresHashtable\DataStructuresHashtable\obj\Debug\net6.0\DataStructuresHashtable.genruntimeconfig.cache
+C:\Users\91973\source\repos\DataStructuresHashtable\DataStructuresHashtable\obj\Debug\net6.0\ref\DataStructuresHashtable.dll
